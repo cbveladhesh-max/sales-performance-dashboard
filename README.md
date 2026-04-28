@@ -25,7 +25,7 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 
 📸 Dashboard Preview
 
-![Dashboard](dashboard.jpg)
+![Dashboard](Dashboard.jpg)
 
 📂 Files Included
 
